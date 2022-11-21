@@ -1,4 +1,5 @@
 # Lab 8 - Starter
+Kaiwen Che
 1. Within a Github action that runs whenever code is pushed. This not only would save me time testing manually locally, but also ensure that every progress made of the code is being checked continuously throughout the development. 
 2. No.
 3. No. Unit tests can't test how these individual components interact with each other on an application/feature level. Since messaging between users invoves mutiple functions and features inside an app, testing with unit test would be time consuming and inefficient.
